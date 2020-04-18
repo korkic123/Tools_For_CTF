@@ -1,10 +1,9 @@
 Korkic's Tools For CTF
 ======================
-
 All tools are created using **Python 3**
 
-1. Painting_on_ExcelWS.py
--------------------------
+Painting_on_ExcelWS.py
+----------------------
    - **Usage** : Painting_on_ExcelWS.py \<TXT File>
      - It requires **'openpyxl'** Library
    ```pip install openpyxl```
