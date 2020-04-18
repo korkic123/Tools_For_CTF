@@ -8,4 +8,5 @@ Painting_on_ExcelWS.py
      - It requires **'openpyxl'** Library   
    ```pip install openpyxl```
      - TXT File : including Coordinate & RGB   
+   
    - **Plan** : Painting a picture automatically on Excel Worksheet.
