@@ -12,7 +12,7 @@ Painting_on_ExcelWS.py
         ```
         (21, 5, #FF0060)   
         (0, 10, #EA2188)   
-      ...
+        ...
         ```   
    - **Plan** : Painting a picture automatically on Excel Worksheet.
 ----------------------------------------------------------------------------
