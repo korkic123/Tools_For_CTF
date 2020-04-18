@@ -12,10 +12,10 @@ lines = f.readlines()
 for line in lines:
     coord_color = line.split(",")
 
-    i_row = int(coord_color[1]) + 1
-    i_col = int(coord_color[0].replace("(","")) + 1
+    i_row = int(coord_color[0].replace("(","").replace(" ","")) + 1
+    i_col = int(coord_color[1].replace(" ","")) + 1
 
-    h_color = coord_color[2].replace(" #","").replace(")","")
+    h_color = coord_color[2].replace("#","").replace(")","").replace(" ","")
     f_color = PatternFill(start_color=h_color, end_color=h_color, fill_type="solid")
     ws.cell(row=i_row, column=i_col).fill = f_color
 
