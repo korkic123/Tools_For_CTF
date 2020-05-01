@@ -3,7 +3,7 @@ Korkic's Tools For CTF
 ======================
 All tools are created using **Python 3**
 
-Painting_on_ExcelWS.py
+Painting on ExcelWS
 ----------------------
    - **Usage** : Painting_on_ExcelWS.py \<TXT File>
      - It requires **'openpyxl'** Library   
