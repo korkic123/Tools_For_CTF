@@ -14,5 +14,5 @@ Painting on ExcelWS
         (0, 10, #EA2188)   
         ...
         ```   
-   - **Plan** : Painting a picture automatically on Excel Worksheet.
+   - **To Do** : Painting a picture automatically on Excel Worksheet.
 ----------------------------------------------------------------------------
